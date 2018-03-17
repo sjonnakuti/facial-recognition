@@ -1,0 +1,11 @@
+{
+  "name": "uploadFile",
+  "version": "1.0.0",
+  "description": "Potato!",
+  "dependencies": {
+    "hapi": "^7.5.2",
+    "handlebars": "*",
+    "fs": "*",
+    "aws-sdk": "*"
+  }
+}
